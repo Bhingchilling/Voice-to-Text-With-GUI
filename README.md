@@ -34,5 +34,11 @@ Proyek ini adalah implementasi aplikasi sederhana berbasis Python yang bertujuan
    ```bash
    python voicetotext.py
 
+## Screenshot
+![Alt Text](https://github.com/Bhingchilling/Voice-to-Text-With-GUI/blob/main/images/Screenshot%20(6).png)
+![Alt Text](https://github.com/Bhingchilling/Voice-to-Text-With-GUI/blob/main/images/Screenshot%20(7).png)
+![Alt Text](https://github.com/Bhingchilling/Voice-to-Text-With-GUI/blob/main/images/Screenshot%20(8).png)
+![Alt Text](https://github.com/Bhingchilling/Voice-to-Text-With-GUI/blob/main/images/Screenshot%20(9).png)
+
 ## Catatan
 Proyek ini dikembangkan sebagai bagian dari Ujian Akhir Semester untuk mata kuliah Pemrograman Python Lanjut di kelas 21S1TK01 Universitas Amikom Yogyakarta.
